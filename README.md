@@ -1,3 +1,24 @@
+# This is a simple but functionalblog style static website that uses Next JS and fetched data from md files.  
+## Super fast and user friendly.  
+
+# What I used
+> next js boilerplate claned up and repurposed to my needs    
+> link from next to generate slugs    
+> dynamic slugs generated at build time    
+> vercel deployment  
+> unique header that wraps around main index file - code it only once     
+> async await to fetch data    
+      
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And This is the usual stuff :)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

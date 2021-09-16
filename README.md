@@ -1,4 +1,4 @@
-# This is a simple but functionalblog style static website that uses Next JS and fetched data from md files.  
+# This is a simple but functional blog style static website that uses Next JS and fetched data from md files.  
 ## Super fast and user friendly.  
 
 # What I used
